@@ -1,0 +1,30 @@
+c:\users\jaros\documents\visual studio 2015\Projects\PGR_Polotonovani\PGR_Polotonovani\bin\Debug\PGR_Polotonovani.exe.config
+c:\users\jaros\documents\visual studio 2015\Projects\PGR_Polotonovani\PGR_Polotonovani\bin\Debug\PGR_Polotonovani.exe
+c:\users\jaros\documents\visual studio 2015\Projects\PGR_Polotonovani\PGR_Polotonovani\bin\Debug\PGR_Polotonovani.pdb
+c:\users\jaros\documents\visual studio 2015\Projects\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.csprojResolveAssemblyReference.cache
+c:\users\jaros\documents\visual studio 2015\Projects\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.Properties.Resources.resources
+c:\users\jaros\documents\visual studio 2015\Projects\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.csproj.GenerateResource.Cache
+c:\users\jaros\documents\visual studio 2015\Projects\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.exe
+c:\users\jaros\documents\visual studio 2015\Projects\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.pdb
+C:\Users\jaros\documents\visual studio 2015\Projects\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.FormMatrix.resources
+C:\Users\jaros\documents\visual studio 2015\Projects\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.Form1.resources
+C:\Users\jaros\Google Drive\Projects\VS backup\Projects\PGR_Polotonovani\PGR_Polotonovani\bin\Debug\PGR_Polotonovani.exe.config
+C:\Users\jaros\Google Drive\Projects\VS backup\Projects\PGR_Polotonovani\PGR_Polotonovani\bin\Debug\PGR_Polotonovani.exe
+C:\Users\jaros\Google Drive\Projects\VS backup\Projects\PGR_Polotonovani\PGR_Polotonovani\bin\Debug\PGR_Polotonovani.pdb
+C:\Users\jaros\Google Drive\Projects\VS backup\Projects\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.csprojResolveAssemblyReference.cache
+C:\Users\jaros\Google Drive\Projects\VS backup\Projects\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.Form1.resources
+C:\Users\jaros\Google Drive\Projects\VS backup\Projects\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.FormMatrix.resources
+C:\Users\jaros\Google Drive\Projects\VS backup\Projects\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.Properties.Resources.resources
+C:\Users\jaros\Google Drive\Projects\VS backup\Projects\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.csproj.GenerateResource.Cache
+C:\Users\jaros\Google Drive\Projects\VS backup\Projects\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.exe
+C:\Users\jaros\Google Drive\Projects\VS backup\Projects\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.pdb
+C:\Users\jaros\Google Drive\Projects\VS\PGR_Polotonovani\PGR_Polotonovani\bin\Debug\PGR_Polotonovani.exe.config
+C:\Users\jaros\Google Drive\Projects\VS\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.exe
+C:\Users\jaros\Google Drive\Projects\VS\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.pdb
+C:\Users\jaros\Google Drive\Projects\VS\PGR_Polotonovani\PGR_Polotonovani\bin\Debug\PGR_Polotonovani.exe
+C:\Users\jaros\Google Drive\Projects\VS\PGR_Polotonovani\PGR_Polotonovani\bin\Debug\PGR_Polotonovani.pdb
+C:\Users\jaros\Google Drive\Projects\VS\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.Form1.resources
+C:\Users\jaros\Google Drive\Projects\VS\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.FormMatrix.resources
+C:\Users\jaros\Google Drive\Projects\VS\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.Properties.Resources.resources
+C:\Users\jaros\Google Drive\Projects\VS\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.csproj.GenerateResource.Cache
+C:\Users\jaros\Google Drive\Projects\VS\PGR_Polotonovani\PGR_Polotonovani\obj\Debug\PGR_Polotonovani.csprojResolveAssemblyReference.cache
